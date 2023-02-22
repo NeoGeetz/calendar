@@ -1,7 +1,7 @@
 * _ means the hour is open
   X means the hour is occupied
   ^ means the hour is usually occupied
-  < means the hour is in the past (might not fill them all in)
+  < means the hour is in the past (may not get around to filling them all in)
 
 * the tables are for this week (Sunday -> Saturday)
   then next week 
