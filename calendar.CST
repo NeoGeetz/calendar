@@ -12,9 +12,9 @@
         Sun Mon Tue Wed Thu Fri Sat
 10am    ^   ^   ^   ^   ^   ^   ^   
 11am    ^   ^   ^   ^   ^   ^   ^   
-12pm    ^   ^   X   _   _   _   _   
- 1pm    X   X   X   _   _   X   X   
- 2pm    X   X   X   _   _   _   _   
+12pm    ^   ^   X   X   _   _   _   
+ 1pm    X   X   X   X   _   X   X   
+ 2pm    X   X   X   _   X   _   _   
  3pm    X   X   X   X   X   X   X   
  4pm    X   X   X   X   X   X   X   
  5pm    <   X   _   _   X   X   _   
