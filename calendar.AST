@@ -3,12 +3,9 @@
   ^ means the hour is usually occupied
   < means the hour is in the past (may not get around to filling them all in)
 
-* the tables are for this week (Sunday -> Saturday)
-  then next week 
-
 * refresh the page to make sure this file is up to-date
 
-
+* ============= this week ============= 
         Sun Mon Tue Wed Thu Fri Sat
  7am    ^   ^   ^   ^   ^   ^   ^   
  8am    ^   ^   ^   ^   ^   ^   ^   
@@ -27,7 +24,7 @@
  9pm    X   <   X   <   _   _   _   
 
 
-
+* ============= next week ============= 
         Sun Mon Tue Wed Thu Fri Sat
  7am    ^   ^   ^   ^   ^   ^   ^   
  8am    ^   ^   ^   ^   ^   ^   ^   
