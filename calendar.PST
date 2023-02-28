@@ -9,8 +9,8 @@
         Sun Mon Tue Wed Thu Fri Sat
  8am    ^   ^   ^   ^   ^   ^   ^   
  9am    ^   ^   _   _   ^   ^   ^   
-10am    X   X   _   _   ^   ^   ^   
-11am    X   X   _   _   ^   ^   ^   
+10am    X   X   X   _   ^   ^   ^   
+11am    X   X   X   _   ^   ^   ^   
 12pm    X   X   _   _   ^   ^   ^   
  1pm    X   X   X   X   X   X   X   
  2pm    X   X   X   X   X   X   X   
@@ -20,8 +20,8 @@
  6pm    X   X   X   _   ^   ^   ^   
  7pm    X   X   _   _   ^   ^   ^   
  8pm    X   X   _   ^   ^   ^   ^   
- 9pm    X   X   _   ^   ^   ^   ^   
-10pm    X   X   _   ^   ^   ^   ^   
+ 9pm    X   _   _   ^   ^   ^   ^   
+10pm    X   _   _   ^   ^   ^   ^   
 
 
   ============= next week ============= 
