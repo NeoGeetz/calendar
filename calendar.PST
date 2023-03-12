@@ -5,26 +5,7 @@
 
 * refresh the page to make sure this file is up to-date
 
-  ============= this week ============= 
-        Sun Mon Tue Wed Thu Fri Sat
- 8am    X   X   X   X   X   X   X   
- 9am    ^   ^   ^   ^   ^   ^   ^   
-10am    ^   ^   ^   ^   ^   ^   ^   
-11am    X   ^   X   X   ^   ^   ^   
-12pm    X   ^   X   X   X   ^   ^   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
- 3pm    X   X   X   X   X   X   X   
- 4pm    X   X   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
- 6pm    X   X   X   X   X   X   X   
- 7pm    X   X   X   X   X   X   X   
- 8pm    X   X   X   X   X   X   X   
- 9pm    X   X   X   X   X   X   X   
-10pm    X   X   X   X   X   X   _   
-
-
-  ============= next week ============= 
+  ============= this week  ============ 
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
@@ -39,11 +20,11 @@
  6pm    X   _   X   X   _   _   _   
  7pm    X   _   X   X   _   _   _   
  8pm    _   X   X   _   ^   X   X   
- 9pm    _   X   X   X   X   X   X   
-10pm    _   _   X   _   X   X   X   
+ 9pm    X   X   X   X   X   X   X   
+10pm    X   _   X   _   X   X   X   
 
 
-  ========= next next week ============= 
+  ============== next week  ============ 
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    ^   ^   ^   ^   ^   ^   ^   
@@ -58,5 +39,24 @@
  6pm    _   _   _   _   _   _   _   
  7pm    _   _   _   _   _   _   _   
  8pm    _   _   _   _   ^   X   X   
+ 9pm    _   _   _   _   X   X   X   
+10pm    _   _   _   _   X   X   X   
+
+
+  ========= next next week ============ 
+        Sun Mon Tue Wed Thu Fri Sat
+ 8am    X   X   X   X   X   X   X   
+ 9am    ^   ^   ^   ^   ^   ^   ^   
+10am    ^   ^   ^   ^   ^   ^   ^   
+11am    ^   ^   ^   ^   ^   ^   ^   
+12pm    ^   ^   ^   ^   ^   ^   ^   
+ 1pm    _   _   _   _   _   _   _   
+ 2pm    _   _   _   _   _   _   _   
+ 3pm    _   _   _   _   _   _   _   
+ 4pm    _   _   _   _   _   _   _   
+ 5pm    _   _   _   _   _   _   _   
+ 6pm    _   _   _   _   _   _   _   
+ 7pm    _   _   _   _   _   _   _   
+ 8pm    _   _   _   _   _   X   X   
  9pm    _   _   _   _   X   X   X   
 10pm    _   _   _   _   X   X   X   
