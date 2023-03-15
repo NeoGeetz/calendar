@@ -8,9 +8,9 @@
   ============= this week  ============ 
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
- 9am    X   X   X   X   X   X   X   
+ 9am    X   X   X   ^   X   X   X   
 10am    ^   ^   ^   ^   ^   ^   ^   
-11am    ^   ^   ^   ^   ^   ^   ^   
+11am    ^   ^   ^   X   ^   ^   ^   
 12pm    ^   X   ^   ^   ^   ^   ^   
  1pm    X   X   X   X   X   X   X   
  2pm    X   X   X   X   X   X   X   
