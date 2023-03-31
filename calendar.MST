@@ -5,6 +5,9 @@
 
 * refresh the page to make sure this file is up to-date
 
+* if it's not sunday, then the days of the week are in the past of whatever day 
+  of the week it is
+
   ============= this week  ============ 
         Sun Mon Tue Wed Thu Fri Sat
  9am    X   X   X   X   X   X   X   
