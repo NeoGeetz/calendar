@@ -21,10 +21,10 @@
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
-10pm    X   X   X   _   X   _   X   
-11pm    X   X   X   _   X   _   X   
-12am    X   _   X   _   X   _   X   
- 1am    X   _   X   _   X   _   X   
+10pm    X   X   X   X   X   X   X   
+11pm    X   X   X   _   X   X   X   
+12am    X   <   X   _   X   _   X   
+ 1am    X   <   X   _   X   _   X   
 
 
   ============== next week  ============ 
@@ -50,16 +50,16 @@
         Sun Mon Tue Wed Thu Fri Sat
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    ^   X   ^   X   X   X   X   
- 2pm    ^   X   ^   X   X   X   X   
- 3pm    _   X   _   X   X   X   X   
- 4pm    _   X   _   X   X   X   X   
- 5pm    _   X   X   X   X   X   X   
- 6pm    _   X   X   X   X   X   X   
- 7pm    _   X   _   X   X   X   X   
- 8pm    _   X   X   X   X   X   X   
- 9pm    _   X   X   X   X   X   X   
-10pm    _   X   X   X   X   X   X   
-11pm    _   X   _   X   X   X   X   
-12am    _   X   _   X   X   X   X   
- 1am    _   X   _   X   X   X   X   
+ 1pm    X   X   ^   X   ^   X   ^   
+ 2pm    X   X   ^   X   ^   X   ^   
+ 3pm    X   X   _   X   _   X   _   
+ 4pm    X   X   _   X   _   X   _   
+ 5pm    X   X   _   X   _   X   _   
+ 6pm    X   X   _   X   _   X   _   
+ 7pm    X   X   _   X   _   X   _   
+ 8pm    X   X   _   X   _   X   _   
+ 9pm    X   X   _   X   _   X   _   
+10pm    X   X   _   X   _   X   _   
+11pm    X   X   _   X   _   X   _   
+12am    X   X   _   X   _   X   _   
+ 1am    X   X   _   X   _   X   _   
