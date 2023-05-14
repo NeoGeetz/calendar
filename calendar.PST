@@ -14,25 +14,6 @@
  9am    X   X   X   X   X   X   X   
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    X   X   _   X   X   X   _   
- 1pm    X   X   _   X   X   X   X   
- 2pm    X   X   _   X   X   X   _   
- 3pm    X   X   _   X   X   X   _   
- 4pm    X   X   _   X   X   X   _   
- 5pm    _   X   X   X   X   X   _   
- 6pm    X   X   X   X   X   X   _   
- 7pm    _   X   X   X   X   X   _   
- 8pm    _   X   _   X   X   X   X   
- 9pm    _   X   _   X   X   X   X   
-10pm    _   X   _   X   X   X   X   
-
-
-  ============== next week  ============ 
-        Sun Mon Tue Wed Thu Fri Sat
- 8am    X   X   X   X   X   X   X   
- 9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
-11am    X   X   X   X   X   X   X   
 12pm    X   _   X   _   X   _   X   
  1pm    X   X   X   X   X   X   X   
  2pm    X   X   X   X   X   X   X   
@@ -46,7 +27,7 @@
 10pm    X   _   X   _   X   X   X   
 
 
-  ========= next next week ============ 
+  ============== next week  ============ 
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
@@ -62,5 +43,24 @@
  7pm    _   X   _   X   _   X   _   
  8pm    _   X   _   X   _   X   X   
  9pm    _   X   _   X   _   X   X   
+10pm    X   X   X   X   X   X   X   
+
+
+  ========= next next week ============ 
+        Sun Mon Tue Wed Thu Fri Sat
+ 8am    X   X   X   X   X   X   X   
+ 9am    X   X   X   X   X   X   X   
+10am    X   X   X   X   X   X   X   
+11am    X   _   X   _   X   _   X   
+12pm    X   _   X   _   X   _   X   
+ 1pm    X   _   X   _   X   _   X   
+ 2pm    X   _   X   _   X   _   X   
+ 3pm    X   _   X   _   X   _   X   
+ 4pm    X   _   X   _   X   _   X   
+ 5pm    X   _   X   _   X   _   X   
+ 6pm    X   _   X   _   X   _   X   
+ 7pm    X   _   X   _   X   _   X   
+ 8pm    X   _   X   _   X   X   X   
+ 9pm    X   _   X   _   X   X   X   
 10pm    X   X   X   X   X   X   X   
 
