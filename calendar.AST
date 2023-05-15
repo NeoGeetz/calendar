@@ -8,7 +8,7 @@
 * if it's not sunday, then the days of the week are in the past of whatever day 
   of the week it is
 
-  ============= this week  ============  Sunday - May 15
+  ============= this week  ============  Sunday - May 14
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -38,7 +38,7 @@
  1pm    _   X   _   X   _   X   _   
  2pm    _   X   _   X   _   X   _   
  3pm    _   X   _   X   _   X   _   
- 4pm    _   X   _   X   _   X   _   
+ 4pm    _   X   X   X   _   X   _   
  5pm    _   X   _   X   _   X   _   
  6pm    _   X   _   X   _   X   _   
  7pm    _   X   _   X   _   X   X   
