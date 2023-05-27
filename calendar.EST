@@ -43,7 +43,7 @@
 10pm    X   _   X   _   X   _   X   
 11pm    X   _   X   _   X   X   X   
 12am    X   _   X   _   X   X   X   
- 1am    X   X   X   X   X   X   X   
+ 1am    X   _   X   _   X   X   X   
 
 
   ========= next next week ============ 
@@ -61,6 +61,6 @@
  9pm    _   X   _   X   _   X   _   
 10pm    _   X   _   X   _   X   _   
 11pm    _   X   _   X   _   X   X   
-12am    _   X   _   X   _   X   X   
- 1am    X   X   X   X   X   X   X   
+12am    _   X   _   X   X   X   X   
+ 1am    _   X   _   X   X   X   X   
 
