@@ -13,8 +13,8 @@
  9am    X   X   X   X   X   X   X   
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    X   _   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   X   
+12pm    X   _   X   _   X   X   X   
+ 1pm    X   X   X   _   X   X   X   
  2pm    X   X   X   X   X   _   X   
  3pm    X   X   X   X   X   _   X   
  4pm    X   <   X   _   X   _   X   
@@ -22,8 +22,8 @@
  6pm    X   X   X   X   X   _   X   
  7pm    X   X   X   _   X   _   X   
  8pm    X   X   X   _   X   _   X   
- 9pm    X   _   X   _   X   _   X   
-10pm    X   _   X   _   X   _   X   
+ 9pm    X   _   X   X   X   _   X   
+10pm    X   _   X   X   X   _   X   
 
 
 ==============  next  week  ============
