@@ -22,7 +22,7 @@
  9pm    X   X   X   X   X   _   X   
 10pm    X   X   X   X   X   X   X   
 11pm    X   X   X   <   X   X   X   
-12am    X   _   X   <   X   _   X   
+12am    X   _   X   <   X   X   X   
  1am    X   _   X   <   X   _   X   
 
 
@@ -37,8 +37,8 @@
  5pm    _   X   X   X   _   X   X   
  6pm    X   X   X   X   _   X   _   
  7pm    X   X   X   X   X   X   _   
- 8pm    X   X   _   X   _   X   _   
- 9pm    _   X   _   X   _   X   _   
+ 8pm    X   X   X   X   _   X   _   
+ 9pm    _   X   X   X   _   X   _   
 10pm    _   X   _   X   X   X   _   
 11pm    _   X   _   X   X   X   _   
 12am    _   X   _   X   _   X   _   
