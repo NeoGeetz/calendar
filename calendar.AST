@@ -7,7 +7,7 @@
 * if it's not sunday, then the days of the week are in the past of whatever day 
   of the week it is
 
-============= this week  ============  Sunday -Jul 16
+============= this week  ============  Sunday -Jul 23
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -15,27 +15,8 @@
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
- 3pm    X   X   X   X   X   X   X   
- 4pm    X   X   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
- 6pm    X   X   X   X   X   X   X   
- 7pm    _   X   X   X   X   X   X   
- 8pm    _   X   X   X   X   X   X   
- 9pm    _   X   X   X   X   X   X   
-
-
-==============  next  week  ============
-        Sun Mon Tue Wed Thu Fri Sat
- 7am    X   X   X   X   X   X   X   
- 8am    X   X   X   X   X   X   X   
- 9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
-11am    X   X   X   X   X   X   X   
-12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
+ 1pm    X   _   X   _   X   X   X   
+ 2pm    X   _   X   _   X   X   X   
  3pm    X   X   X   _   X   X   X   
  4pm    X   X   X   _   X   _   X   
  5pm    X   _   X   _   X   _   X   
@@ -44,7 +25,7 @@
  8pm    X   _   X   _   X   _   X   
  9pm    X   _   X   _   X   _   X   
 
-==============  next next  week  ============
+==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -62,7 +43,7 @@
  8pm    _   X   _   X   _   X   _   
  9pm    _   X   _   X   _   X   _   
 
-==============  next next next  week  ============
+==============  next next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -80,7 +61,7 @@
  8pm    X   _   X   _   X   _   X   
  9pm    X   _   X   _   X   _   X   
 
-==============  next next next next  week  ============
+==============  next next next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -98,7 +79,7 @@
  8pm    _   X   _   X   _   X   _   
  9pm    _   X   _   X   _   X   _   
 
-  ========= next next next next next week ============
+==============  next next next next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -115,4 +96,22 @@
  7pm    X   X   X   _   X   _   X   
  8pm    X   _   X   _   X   _   X   
  9pm    X   _   X   _   X   _   X   
+
+  ========= next next next next next week ============
+        Sun Mon Tue Wed Thu Fri Sat
+ 7am    X   X   X   X   X   X   X   
+ 8am    X   X   X   X   X   X   X   
+ 9am    X   X   X   X   X   X   X   
+10am    X   X   X   X   X   X   X   
+11am    X   X   X   X   X   X   X   
+12pm    X   X   X   X   X   X   X   
+ 1pm    X   X   X   X   X   X   X   
+ 2pm    X   X   X   X   X   X   X   
+ 3pm    X   X   X   X   X   X   X   
+ 4pm    X   X   X   X   X   X   X   
+ 5pm    X   X   X   X   X   X   X   
+ 6pm    X   X   X   X   X   X   X   
+ 7pm    X   X   X   X   X   X   X   
+ 8pm    X   X   X   X   X   X   X   
+ 9pm    X   X   X   X   X   X   X   
 
