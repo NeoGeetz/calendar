@@ -7,30 +7,12 @@
 * if it's not sunday, then the days of the week are in the past of whatever day 
   of the week it is
 
-============= this week  ============  Sunday -Aug 06
+============= this week  ============  Sunday -Aug 13
         Sun Mon Tue Wed Thu Fri Sat
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   _   X   
- 2pm    X   _   X   X   X   _   X   
- 3pm    X   X   X   X   X   _   X   
- 4pm    X   X   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
- 6pm    X   X   X   X   X   X   X   
- 7pm    X   X   X   _   X   _   X   
- 8pm    X   _   X   _   X   _   X   
- 9pm    X   X   X   X   X   _   X   
-10pm    X   X   X   X   X   _   X   
-11pm    X   _   X   _   X   _   X   
-12am    X   _   X   _   X   _   X   
-
-==============  next  week  ============
-        Sun Mon Tue Wed Thu Fri Sat
-10am    X   X   X   X   X   X   X   
-11am    X   X   X   X   X   X   X   
-12pm    X   X   X   X   X   X   X   
- 1pm    _   X   _   X   _   X   _   
+ 1pm    X   X   _   X   _   X   _   
  2pm    X   X   _   X   _   X   _   
  3pm    X   X   _   X   _   X   _   
  4pm    X   X   _   X   _   X   _   
@@ -43,7 +25,7 @@
 11pm    _   X   X   X   _   X   _   
 12am    _   X   X   X   _   X   _   
 
-==============  next next  week  ============
+==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
@@ -60,4 +42,22 @@
 10pm    X   X   X   _   X   _   X   
 11pm    X   _   X   _   X   _   X   
 12am    X   _   X   _   X   _   X   
+
+  ========= next next next next next week ============
+        Sun Mon Tue Wed Thu Fri Sat
+10am    X   X   X   X   X   X   X   
+11am    X   X   X   X   X   X   X   
+12pm    X   X   X   X   X   X   X   
+ 1pm    X   X   X   X   X   X   X   
+ 2pm    X   X   X   X   X   X   X   
+ 3pm    X   X   X   X   X   X   X   
+ 4pm    X   X   X   X   X   X   X   
+ 5pm    X   X   X   X   X   X   X   
+ 6pm    X   X   X   X   X   X   X   
+ 7pm    X   X   X   X   X   X   X   
+ 8pm    X   X   X   X   X   X   X   
+ 9pm    X   X   X   X   X   X   X   
+10pm    X   X   X   X   X   X   X   
+11pm    X   X   X   X   X   X   X   
+12am    X   X   X   X   X   X   X   
 
