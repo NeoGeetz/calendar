@@ -9,27 +9,28 @@
 
 ============= this week  ============  Sunday -Aug 20
         Sun Mon Tue Wed Thu Fri Sat
+ 7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
-11am    X   _   X   _   X   X   X   
+10am    X   _   X   _   X   X   X   
+11am    X   _   X   _   X   _   X   
 12pm    X   _   X   _   X   _   X   
- 1pm    X   _   X   _   X   _   X   
- 2pm    X   _   X   X   X   _   X   
+ 1pm    X   _   X   X   X   _   X   
+ 2pm    X   _   X   _   X   _   X   
  3pm    X   _   X   _   X   _   X   
  4pm    X   _   X   _   X   _   X   
  5pm    X   _   X   _   X   _   X   
- 6pm    X   _   X   _   X   _   X   
+ 6pm    X   X   X   _   X   _   X   
  7pm    X   X   X   _   X   _   X   
- 8pm    X   X   X   _   X   _   X   
- 9pm    X   _   X   _   X   _   X   
-10pm    X   _   X   _   X   X   X   
+ 8pm    X   _   X   _   X   _   X   
+ 9pm    X   _   X   _   X   X   X   
 
 ==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
+ 7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
+10am    _   X   _   X   _   X   _   
 11am    _   X   _   X   _   X   _   
 12pm    _   X   _   X   _   X   _   
  1pm    _   X   _   X   _   X   _   
@@ -41,13 +42,13 @@
  7pm    _   X   _   X   _   X   _   
  8pm    _   X   _   X   _   X   _   
  9pm    _   X   _   X   _   X   _   
-10pm    _   X   _   X   _   X   _   
 
   ========= next next next next next week ============
         Sun Mon Tue Wed Thu Fri Sat
+ 7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
+10am    X   _   X   _   X   _   X   
 11am    X   _   X   _   X   _   X   
 12pm    X   _   X   _   X   _   X   
  1pm    X   _   X   _   X   _   X   
@@ -59,5 +60,4 @@
  7pm    X   _   X   _   X   _   X   
  8pm    X   _   X   _   X   _   X   
  9pm    X   _   X   _   X   _   X   
-10pm    X   _   X   _   X   _   X   
 
