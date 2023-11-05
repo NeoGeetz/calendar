@@ -6,7 +6,7 @@
 * if it's not sunday, then the days of the week are in the past of whatever day 
   of the week it is
 
-============= this week  ============  Sunday -Oct 29
+============= this week  ============  Sunday -Nov 05
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
@@ -32,11 +32,11 @@
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
- 3pm    X   X   X   X   X   X   X   
- 4pm    X   X   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
+ 1pm    X   X   X   X   X   X   _   
+ 2pm    X   _   _   X   _   X   _   
+ 3pm    X   _   _   X   _   X   _   
+ 4pm    X   _   _   _   _   _   _   
+ 5pm    _   _   _   _   _   _   _   
  6pm    X   X   X   X   X   X   X   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
@@ -50,11 +50,11 @@
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   _   
- 2pm    X   _   _   X   _   X   _   
- 3pm    X   _   _   X   _   X   _   
- 4pm    X   _   _   _   _   _   _   
- 5pm    _   _   _   _   _   _   _   
+ 1pm    _   _   _   _   _   _   _   
+ 2pm    _   _   _   _   _   _   _   
+ 3pm    _   _   _   _   _   _   _   
+ 4pm    _   _   _   _   _   _   _   
+ 5pm    X   X   X   X   X   X   X   
  6pm    X   X   X   X   X   X   X   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
