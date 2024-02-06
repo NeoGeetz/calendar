@@ -3,8 +3,8 @@
 
 * refresh the page to make sure this file is up to-date
 
-* if it's not sunday, then the days of the week are in the past of whatever day 
-  today is
+* if it's not sunday, then the days of the week before today 
+  are in the past
 
 ============= this week  ============  Sunday -Feb 04
         Sun Mon Tue Wed Thu Fri Sat
