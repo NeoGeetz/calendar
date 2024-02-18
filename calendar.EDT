@@ -6,26 +6,7 @@
 * if it's not sunday, then the days of the week before today 
   are in the past
 
-============= this week  ============  Sunday -Feb 11
-        Sun Mon Tue Wed Thu Fri Sat
-12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
- 3pm    X   X   X   X   X   X   _   
- 4pm    X   _   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
- 6pm    _   _   X   _   X   _   X   
- 7pm    _   _   X   _   X   X   X   
- 8pm    _   _   X   _   X   X   X   
- 9pm    _   _   X   _   X   X   _   
-10pm    X   _   X   X   X   X   _   
-11pm    _   _   X   X   X   _   _   
-12am    _   _   X   X   X   X   _   
- 1am    X   X   X   X   X   X   X   
- 2am    X   X   X   X   X   X   X   
- 3am    X   X   X   X   X   X   X   
-
-==============  next  week  ============
+============= this week  ============  Saturday -Feb 17
         Sun Mon Tue Wed Thu Fri Sat
 12pm    X   X   X   X   X   X   X   
  1pm    X   X   X   X   X   X   X   
@@ -44,6 +25,25 @@
  2am    X   X   X   X   X   X   X   
  3am    X   X   X   X   X   X   X   
 
+==============  next  week  ============
+        Sun Mon Tue Wed Thu Fri Sat
+12pm    X   X   X   X   X   X   X   
+ 1pm    X   X   X   X   X   X   X   
+ 2pm    _   _   _   _   _   _   _   
+ 3pm    _   _   _   _   _   _   _   
+ 4pm    _   _   _   _   _   _   _   
+ 5pm    _   _   _   _   _   _   _   
+ 6pm    _   _   _   _   _   _   _   
+ 7pm    _   _   _   _   _   _   X   
+ 8pm    _   _   _   _   _   _   X   
+ 9pm    _   _   _   _   _   _   _   
+10pm    _   _   _   _   _   _   _   
+11pm    _   _   _   _   _   _   _   
+12am    _   _   _   _   _   _   _   
+ 1am    _   X   _   X   _   X   _   
+ 2am    X   X   X   X   X   X   X   
+ 3am    X   X   X   X   X   X   X   
+
   ========= next next next next next week ============
         Sun Mon Tue Wed Thu Fri Sat
 12pm    X   X   X   X   X   X   X   
@@ -53,13 +53,13 @@
  4pm    _   _   _   _   _   _   _   
  5pm    _   _   _   _   _   _   _   
  6pm    _   _   _   _   _   _   _   
- 7pm    _   _   _   _   _   _   _   
- 8pm    _   _   _   _   _   _   _   
+ 7pm    _   _   _   _   _   _   X   
+ 8pm    _   _   _   _   _   _   X   
  9pm    _   _   _   _   _   _   _   
 10pm    _   _   _   _   _   _   _   
 11pm    _   _   _   _   _   _   _   
 12am    _   _   _   _   _   _   _   
- 1am    _   X   _   X   _   X   _   
+ 1am    X   _   X   _   X   _   X   
  2am    X   X   X   X   X   X   X   
  3am    X   X   X   X   X   X   X   
 
