@@ -6,16 +6,16 @@
 * if it's not sunday, then the days of the week before today 
   are in the past
 
-============= this week  ============  Saturday -Feb 17
+============= this week  ============  Sunday - 18
         Sun Mon Tue Wed Thu Fri Sat
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    X   X   X   _   X   X   _   
+ 1pm    X   X   X   _   X   X   X   
  2pm    X   _   X   X   X   X   _   
  3pm    _   X   _   X   X   X   X   
  4pm    X   X   X   X   _   _   X   
- 5pm    X   _   _   X   X   _   _   
- 6pm    X   X   _   X   X   _   X   
+ 5pm    X   _   _   X   X   X   _   
+ 6pm    X   X   _   X   X   X   X   
  7pm    X   _   _   X   X   _   X   
  8pm    X   _   _   X   _   _   _   
  9pm    _   _   X   X   _   _   _   
@@ -29,8 +29,8 @@
         Sun Mon Tue Wed Thu Fri Sat
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
- 1pm    _   _   _   _   _   _   _   
- 2pm    _   _   _   _   _   _   _   
+ 1pm    X   _   _   _   _   _   _   
+ 2pm    X   _   _   _   _   _   _   
  3pm    _   _   _   _   _   _   _   
  4pm    _   _   _   _   _   _   _   
  5pm    _   _   _   _   _   _   _   
