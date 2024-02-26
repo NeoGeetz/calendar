@@ -6,6 +6,9 @@
 * if it's not sunday, then the days of the week before today 
   are in the past
 
+* the calendar may temporarily be out of sync on sundays
+  if you look at it before X rotate it
+
 ============= this week  ============  Sunday -Feb 25
         Sun Mon Tue Wed Thu Fri Sat
 11am    X   X   X   X   X   X   X   
@@ -17,11 +20,11 @@
  5pm    X   _   X   _   _   _   _   
  6pm    X   _   X   X   _   _   X   
  7pm    X   _   X   X   _   _   X   
- 8pm    X   _   _   _   _   _   _   
+ 8pm    X   X   _   _   _   _   _   
  9pm    X   _   _   X   _   _   _   
 10pm    X   _   _   _   _   _   _   
 11pm    X   _   _   _   _   _   _   
-12am    X   X   _   X   _   X   _   
+12am    X   X   X   X   X   X   X   
  1am    X   X   X   X   X   X   X   
  2am    X   X   X   X   X   X   X   
 
