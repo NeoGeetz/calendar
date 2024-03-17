@@ -10,30 +10,11 @@
 * the calendar may temporarily be out of sync on sundays
   if you look at it before X rotate it
 
-============= this week  ============  Sunday -Mar 10
+============= this week  ============  Sunday -Mar 17
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    _   _   X   X   X   X   X   
-11am    _   _   X   X   X   X   X   
-12pm    _   _   X   _   X   X   X   
- 1pm    _   _   _   _   X   X   X   
- 2pm    _   _   _   X   _   _   X   
- 3pm    _   _   _   _   _   _   X   
- 4pm    _   _   _   _   _   _   _   
- 5pm    _   _   _   _   _   _   _   
- 6pm    _   _   _   _   X   _   _   
- 7pm    _   _   _   _   X   X   _   
- 8pm    X   X   X   X   ^   ^   ^   
- 9pm    X   X   X   ^   ^   ^   ^   
-10pm    X   X   X   ^   ^   ^   ^   
-11pm    X   X   X   X   X   X   X   
-
-==============  next  week  ============
-        Sun Mon Tue Wed Thu Fri Sat
- 8am    X   X   X   X   X   X   X   
- 9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   _   
+10am    X   X   X   X   X   X   X   
 11am    _   _   _   _   _   _   _   
 12pm    _   _   _   _   _   _   _   
  1pm    _   _   _   _   _   _   _   
@@ -48,7 +29,7 @@
 10pm    ^   X   X   X   X   X   X   
 11pm    X   X   X   X   X   X   X   
 
-  ========= next next week ============
+==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
@@ -62,6 +43,25 @@
  5pm    _   _   _   _   _   _   _   
  6pm    _   _   _   _   _   _   _   
  7pm    _   _   _   _   _   _   _   
+ 8pm    ^   ^   ^   ^   ^   ^   ^   
+ 9pm    ^   ^   ^   ^   ^   ^   ^   
+10pm    X   X   X   X   X   X   X   
+11pm    X   X   X   X   X   X   X   
+
+  ========= next next next next next week ============
+        Sun Mon Tue Wed Thu Fri Sat
+ 8am    X   X   X   X   X   X   X   
+ 9am    X   X   X   X   X   X   X   
+10am    _   _   _   _   _   _   _   
+11am    _   _   _   _   _   _   _   
+12pm    _   _   _   _   _   _   _   
+ 1pm    _   _   _   _   _   _   _   
+ 2pm    _   _   _   _   _   _   _   
+ 3pm    _   _   _   _   _   _   _   
+ 4pm    _   _   _   _   _   _   _   
+ 5pm    _   _   _   _   _   _   _   
+ 6pm    _   _   _   _   _   _   _   
+ 7pm    ^   ^   ^   ^   ^   ^   ^   
  8pm    ^   ^   ^   ^   ^   ^   ^   
  9pm    ^   ^   ^   ^   ^   ^   ^   
 10pm    X   X   X   X   X   X   X   
