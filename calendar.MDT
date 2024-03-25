@@ -15,12 +15,12 @@
  9am    X   X   X   X   X   X   X   
 10am    X   X   X   X   X   X   X   
 11am    _   X   X   X   X   _   _   
-12pm    _   X   _   _   _   _   _   
- 1pm    _   X   _   _   _   _   _   
+12pm    _   X   _   X   _   _   _   
+ 1pm    _   X   _   X   _   _   _   
  2pm    _   _   _   _   _   _   _   
  3pm    _   X   _   _   _   _   _   
- 4pm    X   _   _   _   _   _   _   
- 5pm    _   _   _   _   _   _   _   
+ 4pm    X   _   X   _   _   _   _   
+ 5pm    _   _   X   _   _   _   _   
  6pm    _   _   _   _   _   _   _   
  7pm    _   _   _   _   _   _   _   
  8pm    _   _   _   _   _   ^   ^   
