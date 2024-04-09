@@ -23,11 +23,11 @@
  5pm    X   _   X   _   _   _   _   
  6pm    X   _   X   _   _   _   _   
  7pm    X   X   X   _   _   _   _   
- 8pm    X   X   7~  _   _   _   _   
+ 8pm    X   X   7~  ^   ^   ^   ^   
  9pm    ^   ^   ^   ^   ^   ^   ^   
 10pm    ^   ^   X   ^   ^   ^   ^   
-11pm    X   X   X   X   X   X   X   
-12am    X   X   X   X   X   X   X   
+11pm    X   X   X   ^   ^   ^   ^   
+12am    X   X   X   ^   ^   ^   ^   
 
 ==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
