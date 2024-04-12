@@ -20,8 +20,8 @@
  1pm    _   _   X   X   X   X   _   
  2pm    X   X   X   X   _   X   X   
  3pm    X   _   X   X   _   X   X   
- 4pm    X   _   X   _   X   X   _   
- 5pm    X   _   _   X   _   X   _   
+ 4pm    X   _   X   _   X   X   X   
+ 5pm    X   _   _   X   _   X   X   
  6pm    X   X   ^   _   X   X   _   
  7pm    X   X   X   ^   X   ^   _   
  8pm    ^   ^   ^   X   X   ^   ^   
@@ -67,6 +67,3 @@
 10pm    X   X   X   X   X   X   X   
 11pm    X   X   X   X   X   X   X   
 
-
----------
- 0am    -   Jadalynne  10pm  
