@@ -10,45 +10,26 @@
 * the calendar may temporarily be out of sync on sundays
   if you look at it before i rotate it
 
-============= this week  ============  Sunday -Apr 21
-        Sun Mon Tue Wed Thu Fri Sat
- 8am    X   X   X   X   X   X   X   
- 9am    X   X   X   X   X   X   X   
-10am    X   X   X   X   X   X   X   
-11am    _   X   X   X   X   _   X   
-12pm    _   X   X   X   X   _   X   
- 1pm    X   X   X   X   X   X   X   
- 2pm    X   X   X   X   X   X   X   
- 3pm    X   X   X   X   X   X   X   
- 4pm    X   X   X   X   X   X   X   
- 5pm    X   X   X   X   X   X   X   
- 6pm    X   X   X   X   X   _   _   
- 7pm    ^   ^   ^   ^   X   ^   ^   
- 8pm    ^   ^   ^   ^   X   ^   ^   
- 9pm    X   X   X   X   X   X   X   
-10pm    X   X   X   X   X   X   X   
-11pm    X   X   X   X   X   X   X   
-
-==============  next  week  ============
+============= this week  ============  Sunday -Apr 28
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
 10am    X   X   X   X   X   X   X   
 11am    X   _   _   _   _   _   _   
-12pm    _   _   _   _   _   _   _   
+12pm    X   _   _   _   _   _   _   
  1pm    _   _   _   _   _   _   _   
  2pm    X   _   _   _   _   _   _   
  3pm    X   _   _   _   _   _   _   
- 4pm    ^   _   X   _   _   _   _   
- 5pm    ^   _   _   _   _   _   _   
- 6pm    ^   _   _   _   _   _   _   
+ 4pm    ^   X   X   _   _   _   _   
+ 5pm    ^   X   _   _   _   _   _   
+ 6pm    ^   X   X   _   _   _   _   
  7pm    X   ^   ^   ^   ^   ^   ^   
  8pm    X   ^   ^   ^   ^   ^   ^   
  9pm    X   X   X   X   X   X   X   
 10pm    X   X   X   X   X   X   X   
 11pm    X   X   X   X   X   X   X   
 
-  ========= next next next week ============
+==============  next  week  ============
         Sun Mon Tue Wed Thu Fri Sat
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
@@ -63,6 +44,25 @@
  6pm    _   _   _   _   _   _   _   
  7pm    ^   ^   ^   ^   ^   ^   ^   
  8pm    ^   ^   ^   ^   ^   ^   ^   
+ 9pm    X   X   X   X   X   X   X   
+10pm    X   X   X   X   X   X   X   
+11pm    X   X   X   X   X   X   X   
+
+  ========= next next next week ============
+        Sun Mon Tue Wed Thu Fri Sat
+ 8am    X   X   X   X   X   X   X   
+ 9am    X   X   X   X   X   X   X   
+10am    X   X   X   X   X   X   X   
+11am    X   X   X   X   X   X   X   
+12pm    X   X   X   X   X   X   X   
+ 1pm    X   X   X   X   X   X   X   
+ 2pm    X   X   X   X   X   X   X   
+ 3pm    X   X   X   X   X   X   X   
+ 4pm    X   X   X   X   X   X   X   
+ 5pm    X   X   X   X   X   X   X   
+ 6pm    X   X   X   X   X   X   X   
+ 7pm    X   X   X   X   X   X   X   
+ 8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
 10pm    X   X   X   X   X   X   X   
 11pm    X   X   X   X   X   X   X   
