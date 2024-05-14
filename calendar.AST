@@ -10,18 +10,18 @@
 * the calendar may temporarily be out of sync on sundays
   if you look at it before i rotate it
 
-============= this week  ============  Sunday -May 05
+============= this week  ============  Sunday -May 12
         Sun Mon Tue Wed Thu Fri Sat
  6am    X   X   X   X   X   X   X   
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
- 9am    _   X   _   X   X   _   X   
-10am    X   X   _   X   X   _   _   
-11am    X   X   _   X   X   _   _   
-12pm    X   X   X   X   X   _   _   
- 1pm    X   X   X   X   _   _   _   
- 2pm    X   X   X   X   _   _   _   
- 3pm    _   X   X   _   X   _   _   
+ 9am    X   X   X   X   X   X   X   
+10am    _   _   _   _   _   _   _   
+11am    _   _   _   _   _   _   _   
+12pm    _   _   _   _   _   _   _   
+ 1pm    _   _   _   _   _   _   _   
+ 2pm    _   _   _   _   _   _   _   
+ 3pm    _   _   _   X   _   _   _   
  4pm    ^   ^   ^   ^   ^   ^   ^   
  5pm    ^   ^   ^   ^   ^   ^   ^   
  6pm    ^   ^   ^   ^   ^   ^   ^   
@@ -48,12 +48,12 @@
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
 
-  ========= next next next week ============
+  ========= next next week ============
         Sun Mon Tue Wed Thu Fri Sat
  6am    X   X   X   X   X   X   X   
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
- 9am    _   _   _   _   _   _   _   
+ 9am    X   X   X   X   X   X   X   
 10am    _   _   _   _   _   _   _   
 11am    _   _   _   _   _   _   _   
 12pm    _   _   _   _   _   _   _   
