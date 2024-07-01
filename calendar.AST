@@ -10,16 +10,16 @@
 * the calendar may temporarily be out of sync on sundays
   if you look at it before i rotate it
 
-============= this week  ============  Monday -Jun 24
+============= this week  ============  Sunday -June 30
         Sun Mon Tue Wed Thu Fri Sat
  6am    X   X   X   X   X   X   X   
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    _   _   _   _   _   X   _   
-11am    _   _   _   _   _   _   _   
-12pm    _   _   _   X   _   _   _   
- 1pm    _   _   _   X   _   _   _   
+10am    _   _   _   _   _   _   _   
+11am    _   X   _   _   _   _   _   
+12pm    _   _   _   _   _   _   _   
+ 1pm    _   _   _   _   _   _   _   
  2pm    _   _   _   _   _   _   _   
  3pm    _   _   _   _   _   _   _   
  4pm    ^   ^   ^   ^   ^   ^   ^   
@@ -48,7 +48,7 @@
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
 
-  ========= next next next week ============
+  ========= next next week ============
         Sun Mon Tue Wed Thu Fri Sat
  6am    X   X   X   X   X   X   X   
  7am    X   X   X   X   X   X   X   
