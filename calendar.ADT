@@ -15,7 +15,7 @@
         Sun Mon Tue Wed Thu Fri Sat
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
- 9am    ^   ^   ^   ^   ^   ^   ^   
+ 9am    ^   ^   X   ^   ^   ^   ^   
 10am    _   X   X   X   _   _   _   
 11am    X   X   _   X   _   _   _   
 12pm    _   _   _   _   _   _   _   
