@@ -34,7 +34,7 @@
         Sun Mon Tue Wed Thu Fri Sat
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    X   _   _   _   _   _   _   
+12pm    X   X   X   X   X   X   X   
  1pm    X   _   _   _   _   _   _   
  2pm    X   _   _   _   _   _   _   
  3pm    X   _   _   _   _   _   _   
@@ -53,7 +53,7 @@
         Sun Mon Tue Wed Thu Fri Sat
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    _   _   _   _   _   _   _   
+12pm    X   X   X   X   X   X   X   
  1pm    _   _   _   _   _   _   _   
  2pm    _   _   _   _   _   _   _   
  3pm    _   _   _   _   _   _   _   
@@ -72,7 +72,7 @@
         Sun Mon Tue Wed Thu Fri Sat
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    _   _   _   _   _   _   _   
+12pm    X   X   X   X   X   X   X   
  1pm    _   _   _   _   _   _   _   
  2pm    _   _   _   _   _   _   _   
  3pm    _   _   _   _   _   _   _   
