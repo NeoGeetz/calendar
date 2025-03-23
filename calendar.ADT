@@ -16,7 +16,7 @@
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
 10am    +   +   X   +   +   +   +   
-11am    +   +   X   +   +   +   X   
+11am    +   +   X   +   +   +   +   
 12pm    X   +   X   X   +   +   +   
  1pm    X   X   X   X   X   X   +   
  2pm    +   X   +   X   X   X   +   
@@ -40,8 +40,8 @@
  1pm    X   +   +   +   +   +   +   
  2pm    +   +   +   +   +   +   +   
  3pm    +   +   +   +   +   +   +   
- 4pm    +   +   +   +   +   +   +   
- 5pm    +   +   +   +   +   +   +   
+ 4pm    X   +   +   +   +   +   +   
+ 5pm    X   +   +   +   +   +   +   
  6pm    X   X   X   X   X   X   X   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
