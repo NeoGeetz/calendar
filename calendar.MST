@@ -16,11 +16,11 @@
  9am    X   X   X   X   X   X   X   
 10am    X   X   X   X   X   X   X   
 11am    X   X   X   X   X   X   X   
-12pm    +   +   +   X   +   +   +   
- 1pm    +   +   +   +   +   +   +   
- 2pm    +   +   +   +   +   X   +   
- 3pm    +   +   X   +   +   X   +   
- 4pm    +   X   X   +   +   +   +   
+12pm    +   +   +   X   +   +   X   
+ 1pm    +   +   +   +   +   +   X   
+ 2pm    +   +   +   +   +   X   X   
+ 3pm    +   +   X   +   +   X   X   
+ 4pm    +   X   X   +   +   +   X   
  5pm    +   X   +   +   +   +   +   
  6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
@@ -37,10 +37,10 @@
 11am    X   X   X   X   X   X   X   
 12pm    +   +   +   +   +   +   +   
  1pm    +   +   +   +   +   +   +   
- 2pm    +   +   +   +   +   +   +   
- 3pm    +   +   +   +   +   +   +   
- 4pm    +   +   +   +   +   +   +   
- 5pm    +   +   +   +   +   +   +   
+ 2pm    X   +   +   +   +   +   +   
+ 3pm    X   +   +   +   +   +   +   
+ 4pm    +   X   +   +   +   +   +   
+ 5pm    +   X   +   +   +   +   +   
  6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
