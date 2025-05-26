@@ -10,21 +10,21 @@
   if you look at it before i rotate it
 
 
-============= this week  ============  week of Sunday -May 11
+============= this week  ============  week of Sunday -May 25
         Sun Mon Tue Wed Thu Fri Sat
  6am    X   X   X   X   X   X   X   
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    +   +   +   X   X   +   +   
-11am    +   +   +   X   X   +   +   
+10am    X   X   X   X   X   X   X   
+11am    +   +   +   +   +   +   +   
 12pm    +   +   +   +   +   +   +   
- 1pm    +   +   +   X   +   +   +   
- 2pm    +   +   +   X   +   +   +   
+ 1pm    +   +   +   +   +   +   +   
+ 2pm    +   +   +   +   +   +   +   
  3pm    +   +   +   +   +   +   +   
  4pm    +   +   +   +   +   +   +   
  5pm    +   +   +   +   +   +   +   
- 6pm    X   X   X   X   X   X   X   
+ 6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
@@ -43,7 +43,7 @@
  3pm    +   +   +   +   +   +   +   
  4pm    +   +   +   +   +   +   +   
  5pm    +   +   +   +   +   +   +   
- 6pm    X   X   X   X   X   X   X   
+ 6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
@@ -54,7 +54,7 @@
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    +   +   +   +   +   +   +   
+10am    X   X   X   X   X   X   X   
 11am    +   +   +   +   +   +   +   
 12pm    +   +   +   +   +   +   +   
  1pm    +   +   +   +   +   +   +   
@@ -62,7 +62,7 @@
  3pm    +   +   +   +   +   +   +   
  4pm    +   +   +   +   +   +   +   
  5pm    +   +   +   +   +   +   +   
- 6pm    X   X   X   X   X   X   X   
+ 6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
@@ -73,7 +73,7 @@
  7am    X   X   X   X   X   X   X   
  8am    X   X   X   X   X   X   X   
  9am    X   X   X   X   X   X   X   
-10am    +   +   +   +   +   +   +   
+10am    X   X   X   X   X   X   X   
 11am    +   +   +   +   +   +   +   
 12pm    +   +   +   +   +   +   +   
  1pm    +   +   +   +   +   +   +   
@@ -81,7 +81,7 @@
  3pm    +   +   +   +   +   +   +   
  4pm    +   +   +   +   +   +   +   
  5pm    +   +   +   +   +   +   +   
- 6pm    X   X   X   X   X   X   X   
+ 6pm    +   +   +   +   +   +   +   
  7pm    X   X   X   X   X   X   X   
  8pm    X   X   X   X   X   X   X   
  9pm    X   X   X   X   X   X   X   
