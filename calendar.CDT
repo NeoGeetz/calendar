@@ -1,5 +1,6 @@
 *  + means the hour is open
    X means the hour is occupied
+   ^ means X m still not sure
 
 * refresh the page to make sure this file is up to-date
 
@@ -16,10 +17,10 @@
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
  1pm    X   X   X   X   X   X   X   
- 2pm    +   +   X   +   X   +   +   
- 3pm    +   X   X   +   +   +   +   
- 4pm    +   X   X   +   +   +   +   
- 5pm    +   +   X   +   +   +   +   
+ 2pm    +   +   X   X   X   ^   ^   
+ 3pm    +   X   X   X   ^   ^   ^   
+ 4pm    +   X   X   X   ^   ^   ^   
+ 5pm    +   +   X   X   ^   ^   ^   
  6pm    +   +   +   +   +   +   +   
  7pm    +   +   X   +   +   +   +   
  8pm    +   +   +   +   +   +   +   
@@ -35,10 +36,10 @@
 11am    X   X   X   X   X   X   X   
 12pm    X   X   X   X   X   X   X   
  1pm    X   X   X   X   X   X   X   
- 2pm    +   +   +   +   +   +   +   
- 3pm    +   +   +   +   +   +   +   
- 4pm    +   +   +   +   +   +   +   
- 5pm    +   +   +   +   +   +   +   
+ 2pm    ^   ^   ^   ^   ^   +   +   
+ 3pm    ^   ^   ^   ^   +   +   +   
+ 4pm    ^   ^   ^   +   +   +   +   
+ 5pm    ^   +   +   +   +   +   +   
  6pm    +   +   +   +   +   +   +   
  7pm    +   +   +   +   +   +   +   
  8pm    +   +   +   +   +   +   +   
